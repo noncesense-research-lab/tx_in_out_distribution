@@ -45,6 +45,9 @@ There are ```4033981``` transactions (version 1 and 2) up to height ```1786599``
 
 ## Changelog
 
+#### 4/14/2019 - RingCT 1-output
+- ```tx_ringct_1_out```: Added transaction data for the ```2522``` RingCT transactions with 1 output, up to height ```1813199```.
+
 #### 3/27/2019 - RingCT/Non-RingCT
 
 - Added transaction version parameter: the distribution is now split between ```nonringct``` and ```ringct``` versioned sets.
